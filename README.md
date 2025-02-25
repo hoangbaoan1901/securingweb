@@ -6,6 +6,6 @@
 ## Admin page
 ![](src/main/resources/img/admin.png)
 ## User page
-![](src/main/resources/img/secured_user.png)
+![](src/main/resources/img/user.png)
 ## Database
 ![](src/main/resources/img/db.png)
